@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(34, 0, 34);
+    text-align: center;
+}
+
+img {
+    height: 80px;
+}
+
+h1, h2 {
+    color: rgb(218, 48, 218);
+}
+
+a {
+    color: rgb(161, 130, 161);
+}
+
+p {
+    width: 500px;
+    text-align: center;
+    margin: 0px auto;
+    color: aliceblue;
+}
